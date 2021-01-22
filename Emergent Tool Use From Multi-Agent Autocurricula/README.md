@@ -14,4 +14,4 @@ This is a presentation about Multi-Agent interaction while playing a simple game
 **[@loukashadjivasilis](https://github.com/loukashadjivasilis)**
 
 
-***NOTE***: *This presentation contains videos which are not available due to its .pdf format. For the full presentation, contact me.)*
+***NOTE***: *This presentation contains videos which are not available due to its .pdf format. For the full presentation, contact me.*
