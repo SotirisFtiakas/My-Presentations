@@ -8,4 +8,4 @@ This is a presentation about the advantages and disadvantages of the two cluster
 **[@GregB712](https://github.com/GregB712)**
 
 
-***NOTE:*** *This presentation contains videos which are not available due to its .pdf format. For the full presentation, contact me.)
+***NOTE***: *This presentation contains videos which are not available due to its .pdf format. For the full presentation, contact me.*
