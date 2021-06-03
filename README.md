@@ -3,7 +3,7 @@ This repository contains all my presentations throughout the years.
 
 ___
 
-### (06/2021) SDS - Stochastic Diffusion Search [➔](https://github.com/SotirisFtiakas/My-Presentations/blob/main/Stochastic%20Diffusion%20Search/SDS%20PRESENTATION.pdf)
+### (06/2021) SDS - Stochastic Diffusion Search [➔](https://github.com/SotirisFtiakas/My-Presentations/blob/main/Stochastic%20Diffusion%20Search/SDS%20Presentation.pdf)
 - Presentation about the Nature-Inspired optimization algorithm Stochastic Diffusion Search, and its approach to solving "The Curse of Dimensionality" problem in Machine Learning.
 
 ### (01/2021) Emergent Tool Use From Multi-Agent Autocurricula [➔](https://github.com/SotirisFtiakas/My-Presentations/blob/main/Emergent%20Tool%20Use%20From%20Multi-Agent%20Autocurricula/Hide%20and%20Seek.pdf)
